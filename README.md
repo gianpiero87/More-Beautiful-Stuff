@@ -24,9 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![Mosaic DTM.jpg](Mosaic DTM)
-![Slope DTM.jpg](Slope DTM)
-![Satellite Image DTM.jpg](Satellite Image DTM)
+![Mosaic DTM](Mosaic DTM.jpeg)
+![Slope DTM](Slope DTM.jpeg)
+![Satellite Image DTM](Satellite Image DTM.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
