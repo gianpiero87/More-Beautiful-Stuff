@@ -30,6 +30,9 @@ Syntax highlighted code block
 ![Slope DTM](Slope DTM.jpg)
 ![Satellite Image DTM](Satellite Image DTM.jpg)
 ![3D DTM](3D DTM.jpg)
+![3D1](3D1.jpg)
+![3D2](3D2.jpg)
+![3D3](3D3.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
