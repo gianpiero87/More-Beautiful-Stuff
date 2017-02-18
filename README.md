@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
-![(https://github.com/gianpiero87/More-Beautiful-Stuff/blob/master/Untitled.jpg)]. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Untitled](https://github.com/gianpiero87/More-Beautiful-Stuff/blob/master/Untitled.jpg). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
