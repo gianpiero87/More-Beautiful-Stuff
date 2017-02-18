@@ -29,6 +29,7 @@ Syntax highlighted code block
 ![Mosaic DTM](Mosaic DTM.jpg)
 ![Slope DTM](Slope DTM.jpg)
 ![Satellite Image DTM](Satellite Image DTM.jpg)
+![3D DTM](3D DTM.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
