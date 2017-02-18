@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![Untitled](Untitled.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -32,9 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
-![Untitled](https://github.com/gianpiero87/More-Beautiful-Stuff/blob/master/Untitled.jpg). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-[Click Me Map](https://gianpiero87.github.io/More-Beautiful-Stuff/Map.html)
 
 ### Support or Contact
 
