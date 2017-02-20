@@ -23,7 +23,7 @@ Evidences of human occupation are dated back to 6th-5th millennium BC (Neolithic
 # PROJECT STEPS
 ## 1) Selecting digital terrain models
 
-First of all, we had to request, and then acquire, LiDAR-generated maps from the INGV (National Institute of Geology and Vulcanology - Italy: [INGV Homepage](http://www.ingv.it/it/)). Thanks to their collaboration, we were able to download a total of 4 10-m resolution DTMs of the entire Platani River Valley. [DEM](http://tinitaly.pi.ingv.it/download.html)
+First of all, we had to request, and then acquire, LiDAR-generated maps from the INGV (National Institute of Geology and Vulcanology - Italy: [INGV Homepage](http://www.ingv.it/it/)). Thanks to their collaboration, we were able to download a total of 4 10-m resolution DTMs of the entire Platani River Valley ([DEM download page](http://tinitaly.pi.ingv.it/download.html))
 
 ![INGV DEMs](INGV DEMs.jpg)
 
