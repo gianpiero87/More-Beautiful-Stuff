@@ -63,7 +63,13 @@ The final result shows a 3D map of the area, including also the main river cours
 
 The goal of this study is to look at where archaeological information can be located on a 3D model of the landscape in order to understand ancient land uses. As we previously showed, this task is very time consuming and it deals with computers and other kind digital tools...which means errors occurr constantly! However, the results are amazing, even for non-experts like us!
 
+Since we want to show how the landscape and prehistoric communities were part of the same cultural context, we decided to look at such an interaction through the lens of visibility.
 
+## What is visibility?
+
+We considered the portion of visible landscape that can be seen from each site, and then relate it to the postition of each site within the landscape. Most probably these things are in a very close connection one to another. We can think about communities settling in specific positions throughout the area in order to gain advantages over the landscape (control of sources, defense, control of routes, soil fertility).
+
+![sites](sites.png)
 
 
 
