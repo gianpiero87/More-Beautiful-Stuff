@@ -1,7 +1,7 @@
 # AIM OF THE PROJECT
 
 The goal of this study is to show how important the Platani River Valley (Sicily, Italy) was for local prehistoric communities, and 
-how it actievely shaped their choices in terms of occupation and exploitation strategies. Archaeologically, prehistoric Sicily has been poorly studied, and the literature lacks of any kind of remote sensing approaches related to past landscape uses. The information we have about this context comes from early 80s and late 90s excavation projects that have been rarely published so far. However, today's archaeology can rely on new techniques and methods to look at the occurrance of both human evidences and natural features in the landscape at the same time, such as remote sensing LiDAR. Therefore, we decided to use LiDAR-generated maps of the area of interest to highlight the deep connection beteen ancient communities and their surrounding environment.
+how it actievely shaped their choices in terms of occupation and exploitation strategies. Archaeologically, prehistoric Sicily has been poorly studied, and the literature lacks of any kind of remote sensing approaches related to past landscape uses. The information we have about this context comes from early 80s and late 90s excavation projects that have been rarely published so far. However, today's archaeology can rely on new techniques and methods to look at the occurrance of both human evidences and natural features in the landscape at the same time, such as remote sensing LiDAR. Therefore, we decided to use already-existing digital models of the landscape  to highlight the deep connection beteen ancient communities and their surrounding environment.
 
 ![Map 1](Map 1.jpg) ![Map 2](Map 2.jpg)
 
@@ -21,9 +21,11 @@ The entire Platani River basin is crucial for its inhabitants, because in this p
 Evidences of human occupation are dated back to 6th-5th millennium BC (Neolithic). But it is during the Copper Age (4th millennium BC) that the human presence within this landscape became very effective. Earliest evidences of such a change in terms of landscape occupation come from cave tombs (*Tombe a Grotticella*), which were created by directly excavating the porous bedrock (mostly limestone), thus creating holes and cavities where local communities used to bury their dead. This funerary practice is the most common throughout the enire valley and even beyond it. Unfortunately we still very few information about settlements during this time period: most probably 4th millennium villages were built nearby water courses on flat low plains. Differently, evidences for later periods are more abundant and they show a fair change in terms of site selection. For instance, at the beginning of the 2nd millennium BC (Bronze Age) the number of settlement increases, along with the importance of controlling cliffs and hills overlooking main pathways. During this time period there are also evidences of communal sanctuaries and cemeteries used as social aggregation spots, in which communities from several villages gathered altogether for celebrations and rituals.
 
 # PROJECT STEPS
-## 1) Selecting LiDAR data
+## 1) Selecting digital terrain models
 
-First of all, we had to request, and then acquire, LiDAR-generated maps from the INGV (National Institute of Geology and Vulcanology - Italy: [INGV Homepage](http://www.ingv.it/it/)). Thanks to their collaboration, we were able to download a total of 4 10-m resolution DTMs of the entire Platani River Valley (W41090 – W41590 – W41585 – W41085).
+First of all, we had to request, and then acquire, LiDAR-generated maps from the INGV (National Institute of Geology and Vulcanology - Italy: [INGV Homepage](http://www.ingv.it/it/)). Thanks to their collaboration, we were able to download a total of 4 10-m resolution DTMs of the entire Platani River Valley. [DEM](http://tinitaly.pi.ingv.it/download.html)
+
+![INGV DEMs](INGV DEMs.jpg)
 
 
 ## 2) Examining the data
