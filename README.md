@@ -53,7 +53,7 @@ Once we completed this step, we then insert the coordinates of the archaeologica
 ![3D1](3D1.png)
 ![3D2](3D2.png)
 
-The images above show the infrared map of the Platani River Valley, including the location the sites mentioned in the archaeological literature we used. Bright red areas refer to high presence of vegetation (forests, agricultural fields, sparse Mediterranean vegetation), whereas lighter red and grey areas refer to the presence of very poor vegetation coverage, or none at all (mostly dry areas). The creation of such 3D models are very useful in terms of landscape analysis.
+The images above show the infrared map of the Platani River Valley, including the location the sites mentioned in the archaeological literature we used. Bright red areas refer to the presence of very healthy plants (forests, agricultural fields, sparse Mediterranean vegetation), whereas lighter red and grey areas refer to the presence of very poor vegetation coverage, or none at all (mostly dry areas). Detecting the overall vegetation health is a key to understand the quality of soils, which means highly fertile soils produce very healthy plants (and a brighter red on the map!), whereas less fertile soils affect the vegetation negatively (lighter red or grey on the map). The creation of such 3D models are very useful in terms of landscape analysis.
 
 ![3D3](3D3.png)
 
@@ -77,5 +77,9 @@ In the picture above we included all the archaeological sites with their relativ
 
 ![sitesIR](sitesIR.jpg)
 
+We then tried to analyze the relation of each site location with the infrared map of the landscape (see 3) Processing the data). As the picture above shows, the main known prehistoric settlements from this area are set within the portion of the landscape with the highest presence of healthy vegetation. That's great! It might be a clue for understanding why prehistoric communities settled here (in this case on the coast) instead of somewhere else. However, it has to be stated that at this preliminary stage we were not able to use the precise site's coordinates, but only those relative to sites' closest towns. Therefore, it is very important to consider that most of our projections (visibility cones) are not directly related to the position where the archaeological site has been found.
 
+# CONCLUSION
+
+This study provided lots of inormation in terms of landscape archaeology in Sicily. The lack of researches, at this stage, was not a crucial problem, as well as the lack of more detailed maps with higher resolution. Therefore, we concluded that prehistoric communities from the 4th to the 2nd millennium BC use to build their villages at coastal spots, thus privileging them over inland ones, where, instead, they buried their dead and performed ritual activities. Additionally, villages seem to face the sea, thus enabling the communities to control the entrance to the upper Platani River Valley, which looks directly related with the cult of ancestors amd ritual practices. The presence of healthy vegetation in areas around coastal sites, compared with less healthy or dry areas in the upper valley, might be considered further evidences of the reason why prehistoric communities selected specific spots according to specific activities throughout the landscape they lived in.
 
