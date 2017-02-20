@@ -1,15 +1,20 @@
 # AIM OF THE PROJECT
 
 The goal of this study is to show how important the Platani River Valley (Sicily, Italy) was for local prehistoric communities, and 
-how it actievely has driven their choices in terms of occupation and exploitation of the landscape.
+how it actievely shaped their choices in terms of occupation and exploitation strategies. Archaeologically, prehistoric Sicily has been poorly studied, and the literature lacks of any kind of remote sensing approaches related to past landscape uses. The information we have about this context comes from early 80s and late 90s excavation projects that have been rarely published so far. However, today's archaeology can rely on new techniques and methods to look at the occurrance of both human evidences and natural features in the landscape at the same time, such as remote sensing LiDAR. Therefore, we decided to use LiDAR-generated maps of the area of interest to highlight the deep connection beteen ancient communities and their surrounding environment.
 
 ![Map 1](Map 1.jpg) ![Map 2](Map 2.jpg)
 
 # PLATANI RIVER VALLEY
+## What is it?
 
-The Platani River Valley is a very important region in the Agrigento province, located in southern-central Sicily. This area is archaeologically crucial to understand how people occupied, moved, and exploited the local environment during the past. The valley has been occupied since a very ancient past due to its role as a natural route running from the southern coast of Sicily to the central region, and further north.
+The Platani River Valley is a very important region in the Agrigento province, located in southern-central Sicily. This area is archaeologically crucial to understand how people occupied, moved, and exploited the local environment during the past. The valley has been occupied since a very ancient past due to its role as a natural route running from the southern coast of Sicily to the central region, and further north. It is mainly characterized by a very harsh, rocky, dry, and warm landscape, with moderate and high elevation hills that emerge from the flat landscape as natural forts overlooking the Platani river and its affluents' course.
 
 ![Valle del Platani](Valle del Platani.jpg)
+
+## 
+
+
 
 # Header 1
 
