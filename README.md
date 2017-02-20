@@ -71,6 +71,8 @@ We considered the portion of visible landscape that can be seen from each site, 
 
 ![sites](sites.jpg)
 
+In the picture above we included all the archaeological sites with their relative labels.
+
 
 
 
