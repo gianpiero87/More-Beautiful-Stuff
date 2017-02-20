@@ -85,7 +85,7 @@ This study provided lots of inormation in terms of landscape archaeology in Sici
 
 # ACKNOWLEDGMENTS 
 
-We would like to thank the INGV operators that provided us the authorization for downloading the DEMs. We would also mention the ESA organization that provides free and open access to very detailed satellite images. We also would like to thank Dr. Rachel Opitz for the support provided during the data processing and the website creation steps, Dr. Davide Tanasi for the archaeological background information, and the CVAST for providing the facility and the instrument for such a study. Ultimately, we sould like to thank the USF - Department of Applied Anthropology for giving us the opportunity to work on such a topic.
+We would like to thank the INGV operators that provided us the authorization for downloading the DEMs. We would also mention the ESA organization that provides free and open access to very detailed satellite images. We also would like to thank Dr. Rachel Opitz for the support provided during the data processing and the website creation steps, Dr. Davide Tanasi for the archaeological background information, and the CVAST for providing the facility and the instrument for such a study. Ultimately, we would like to thank the USF - Department of Applied Anthropology for giving us the opportunity to work on such a topic.
 
 For any other information or specific request, please contact Mr. Aurelien Tafani (atafani@mail.usf.edu), or Mr. Gianpiero Caso (gianpiero@mail.usf.edu).
 
