@@ -44,7 +44,11 @@ This first examination of the data we gathered, actually enabled us to detect th
 
 ## 3) Processing the data
 
+In order to correclty visualize the archaeological information into the digital models, we first downloaded and overlapped a satellite image to the maps we previously generated. Satellite images from Sentinel 2 satellite are free and open accessible via ESA website  ([ESA.int](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2))
+
 ![Satellite Image DTM](Satellite Image DTM.jpg)
+
+Once we completed this step, we then insert the coordinates of the archaeological sites, including remains for settlements, cave contexts, and cemeteries dated back from the 4th to the 2nd millennium BC. Such an approach is crucial in order to visualize the position of each site in relation with its surrounding landscape. Satellite image and the original terrain models have different coordinate systems. Therefore we needed change them to let them match within a single coordinate system.
 
 
 
