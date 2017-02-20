@@ -27,10 +27,9 @@ First of all, we had to request, and then acquire, LiDAR-generated maps from the
 
 ![INGV DEMs](INGV DEMs.jpg)
 
-
 ## 2) Examining the data
 
-We, then, decided to create two kinds of visual maps, in order to check data validity and whether or not it was possible to go through our initial reasearch questions. The results were promising because, even with a 10-m resolution, it was still possible to look at detailed features of the landscape
+We, then, decided to create two kinds of visual maps, in order to check data validity and whether or not it was possible to go through our initial reasearch questions. The results were promising because, even with a 10-m resolution, it was still possible to look at detailed features of the landscape.
 
 ![Mosaic DTM](Mosaic DTM.jpg) ![Slope DTM](Slope DTM.jpg)
 
