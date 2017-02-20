@@ -50,12 +50,11 @@ In order to correclty visualize the archaeological information into the digital 
 
 Once we completed this step, we then insert the coordinates of the archaeological sites, including remains for settlements, cave contexts, and cemeteries dated back from the 4th to the 2nd millennium BC. Such an approach is crucial in order to visualize the position of each site in relation with its surrounding landscape. Satellite image and the original terrain models have different coordinate systems. Therefore we needed change them to let them match within a single coordinate system.
 
-![3D1](3D1.jpg)
-![3D2](3D2.jpg)
+!
 
 The images above show the infrared map of the Platani River Valley, including the location the sites mentioned in the archaeological literature we used. Bright red areas refer to high presence of vegetation (forests, agricultural fields, sparse Mediterranean vegetation), whereas lighter red and grey areas refer to the presence of very poor vegetation coverage, or none at all (mostly dry areas). The creation of such 3D models are very useful in terms of landscape analysis.
 
-![3D3](3D3.jpg)
+!
 
 The final result shows a 3D map of the area, including also the main river course, highlighted in light blue.
 
