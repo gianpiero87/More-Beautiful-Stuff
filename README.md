@@ -75,7 +75,7 @@ We considered the portion of visible landscape that can be seen from each site, 
 
 In the picture above we included all the archaeological sites with their relative labels. The white areas in the shape of cones refer to the portion of landscape that are visibile from each spot. Interestingly, the settlements are nearby the coast, facing the sea, whereas the most used caves during the same time period are just behind them, throughout the inner side of the landscape. Usually caves were related with ritual purposes (water cults and funerary practices) and were connected with the cult of ancestors. Since the rocky areas in the Platani River Valley are mainly made of limestone, prehistoric communities could rely on natural shelters and cavities resulting from watering and erosion processes. Therefore, it is even less surprising that the majority of prehistoric cemeteries were also found throughout the same portion of the landscape, where the local bedrock is very porous (like a swiss cheese!) and easily workable. 
 
-
+![sitesIR](sitesIR.jpg)
 
 
 
