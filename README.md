@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+# AIM OF THE PROJECT
 
-You can use the [editor on GitHub](https://github.com/gianpiero87/More-Beautiful-Stuff/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this study is to show how important the Platani River Valley (Sicily, Italy) was for local prehistoric communities, and 
+how it actievely has driven their choices in terms of occupation and exploitation of the landscape.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Map 1](Map 1.jpg) ![Map 2](Map 2.jpg)
 
-### Markdown
+# PLATANI RIVER VALLEY
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Platani River Valley is a very important region in the Agrigento province, located in southern-central Sicily. This area is archaeologically crucial to understand how people occupied, moved, and exploited the local environment during the past. The valley has been occupied since a very ancient past due to its role as a natural route running from the southern coast of Sicily to the central region, and further north.
 
-```markdown
-Syntax highlighted code block
+![Valle del Platani](Valle del Platani.jpg)
 
 # Header 1
 
@@ -25,8 +25,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Map 1](Map 1.jpg)
-![Map 2](Map 2.jpg)
 ![Mosaic DTM](Mosaic DTM.jpg)
 ![Slope DTM](Slope DTM.jpg)
 ![Satellite Image DTM](Satellite Image DTM.jpg)
