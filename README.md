@@ -61,7 +61,9 @@ The final result shows a 3D map of the area, including also the main river cours
 
 # USE OF SATELLITE IMAGE AND DEM FOR LANDSCAPE ARCHAEOLOGY!
 
-The goal of this study is to look at where archaeological information can be located on a 3D model of the landscape in order to understand ancient land uses. As we previously showed, this task is very time consuming and it deals with computers and other kind digital tools...which means errors occurr constantly! However, the results are amazing!
+The goal of this study is to look at where archaeological information can be located on a 3D model of the landscape in order to understand ancient land uses. As we previously showed, this task is very time consuming and it deals with computers and other kind digital tools...which means errors occurr constantly! However, the results are amazing, even for non-experts like us!
+
+
 
 
 
