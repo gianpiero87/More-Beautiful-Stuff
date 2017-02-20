@@ -13,12 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 
-The prehistoric occupation of the Platani River Valley
-![Map 1](Map 1.jpg)
-![Map 2](Map 2.jpg)
-
 ## Header 2
-
 
 ### Header 3
 
@@ -30,6 +25,8 @@ The prehistoric occupation of the Platani River Valley
 
 **Bold** and _Italic_ and `Code` text
 
+![Map 1](Map 1.jpg)
+![Map 2](Map 2.jpg)
 ![Mosaic DTM](Mosaic DTM.jpg)
 ![Slope DTM](Slope DTM.jpg)
 ![Satellite Image DTM](Satellite Image DTM.jpg)
