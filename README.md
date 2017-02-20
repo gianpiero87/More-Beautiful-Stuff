@@ -32,10 +32,12 @@ First of all, we had to request, and then acquire, LiDAR-generated maps from the
 We, then, decided to create two kinds of visual maps, in order to check data validity and whether or not it was possible to go through our initial reasearch questions. The results were promising because, even with a 10-m resolution, it was still possible to look at detailed features of the landscape.
 
 ![Mosaic DTM](Mosaic DTM.jpg)
+
 Here, in this picture it is possible to look at the water streams system through the area of interest. Bright colors, from red to yellow, refer to high and moderate elevation features (hills, cliffs), whereas darker colors, from green to deep blue, refer to low elevation features and flat areas (plains and river courses).
 
 
 ![Slope DTM](Slope DTM.jpg)
+
 On the other hand, this image shows the steepness of Platani River Valley elevations in terms of color gradient: red and dark colors refer to very steep profiles, whereas lighter colors highlight less steep and flat areas.
 
 This first examination of the data we gathered, actually enabled us to detect the main landscape features. The main river course runs through the hilly landscape, thus eroding the bedrock and, then, creating very steep slopes on both banks of its path. From the river itself, several water channels branch throughout the valley, thus filling other very low concavities usually located between high cliffs and hills. As a consequence, the visibility of the entire valley becomes an important factor for prehistoric communities, including the visibility of each site in relation to one another and the nearby river courses.
