@@ -1,3 +1,6 @@
+# Prehistoric occupation of the Platani River Valley (Agrigento, Sicily - Italy)
+## Aurelien Tafani - Gianpiero Caso
+
 # AIM OF THE PROJECT
 
 The goal of this study is to show how important the Platani River Valley (Sicily, Italy) was for local prehistoric communities, and 
