@@ -85,7 +85,17 @@ This study provided lots of inormation in terms of landscape archaeology in Sici
 
 # ACKNOWLEDGMENTS 
 
-We would like to thank the INGV operators that provided us the authorization for downloading the DEMs. We would also mention the ESA organization that provides free and open access to very detailed satellite images. We also would like to thank Dr. Rachel Opitz for the support provided during the data processing and the website creation steps, Dr. Davide Tanasi for the archaeological background information, and the CVAST for providing the facility and the instrument for such a study. Ultimately, we would like to thank the USF - Department of Applied Anthropology for giving us the opportunity to work on such a topic.
-
+We would like to thank the INGV operators that provided us the authorization for downloading the DEMs:
+The content includes four papers describing to some extent the DEM database (including input data and interpolation algorithms). Do not hesistate to contact me for any problem in downloading/using data or if you need a broader area.
+I recall below terms and conditions of use:
+(i) data is provided for research purposes only;
+(ii) data is provided solely to the person named on this application form and should not be given to third parties. Third parties who might need access to the same dataset are required to fill their own application forms.
+(iii) data must be referenced with the following citations:
+(iv) Our aim is to provide scientific information to members of national and international scientific communities. The Istituto Nazionale di Geofisica e Vulcanologia assumes no responsibility for the downloaded data, which is not necessarily updated. The global accuracy of the digital elevation model id described in the above reference #1. Nevertheless, we cannot exclude the presence of local higher errors.
+1. Tarquini S., Isola I., Favalli M., Mazzarini F., Bisson M., Pareschi M. T., Boschi E. (2007). TINITALY/01: a new Triangular Irregular Network of Italy, Annals of Geophysics 50, 407 - 425.
+2. Tarquini S., Vinci S., Favalli M., Doumaz F., Fornaciai A., Nannipieri L., (2012). Release of a 10-m-resolution DEM for the Italian territory: Comparison with global-coverage DEMs and anaglyph-mode exploration via the web, Computers & Geosciences 38, 168-170. doi: doi:10.1016/j.cageo.2011.04.018.
+Thank you for your interest in our work.
+Kind regards
+We would also mention the ESA organization that provides free and open access to very detailed satellite images. We also would like to thank Dr. Rachel Opitz for the support provided during the data processing and the website creation steps, Dr. Davide Tanasi for the archaeological background information, and the CVAST for providing the facility and the instrument for such a study. Ultimately, we would like to thank the USF - Department of Applied Anthropology for giving us the opportunity to work on such a topic.
 For any other information or specific request, please contact Mr. Aurelien Tafani (atafani@mail.usf.edu), or Mr. Gianpiero Caso (gianpiero@mail.usf.edu).
 
