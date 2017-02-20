@@ -86,6 +86,7 @@ This study provided lots of inormation in terms of landscape archaeology in Sici
 # ACKNOWLEDGMENTS 
 
 We would like to thank the INGV operators that provided us the authorization for downloading the DEMs:
+
 The content includes four papers describing to some extent the DEM database (including input data and interpolation algorithms). Do not hesistate to contact me for any problem in downloading/using data or if you need a broader area.
 I recall below terms and conditions of use:
 (i) data is provided for research purposes only;
@@ -96,6 +97,7 @@ I recall below terms and conditions of use:
 2. Tarquini S., Vinci S., Favalli M., Doumaz F., Fornaciai A., Nannipieri L., (2012). Release of a 10-m-resolution DEM for the Italian territory: Comparison with global-coverage DEMs and anaglyph-mode exploration via the web, Computers & Geosciences 38, 168-170. doi: doi:10.1016/j.cageo.2011.04.018.
 Thank you for your interest in our work.
 Kind regards
+
 We would also mention the ESA organization that provides free and open access to very detailed satellite images. We also would like to thank Dr. Rachel Opitz for the support provided during the data processing and the website creation steps, Dr. Davide Tanasi for the archaeological background information, and the CVAST for providing the facility and the instrument for such a study. Ultimately, we would like to thank the USF - Department of Applied Anthropology for giving us the opportunity to work on such a topic.
 For any other information or specific request, please contact Mr. Aurelien Tafani (atafani@mail.usf.edu), or Mr. Gianpiero Caso (gianpiero@mail.usf.edu).
 
