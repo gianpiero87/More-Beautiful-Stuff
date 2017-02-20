@@ -20,7 +20,17 @@ The entire Platani River basin is crucial for its inhabitants, because in this p
 
 Evidences of human occupation are dated back to 6th-5th millennium BC (Neolithic). But it is during the Copper Age (4th millennium BC) that the human presence within this landscape became very effective. Earliest evidences of such a change in terms of landscape occupation come from cave tombs (*Tombe a Grotticella*), which were created by directly excavating the porous bedrock (mostly limestone), thus creating holes and cavities where local communities used to bury their dead. This funerary practice is the most common throughout the enire valley and even beyond it. Unfortunately we still very few information about settlements during this time period: most probably 4th millennium villages were built nearby water courses on flat low plains. Differently, evidences for later periods are more abundant and they show a fair change in terms of site selection. For instance, at the beginning of the 2nd millennium BC (Bronze Age) the number of settlement increases, along with the importance of controlling cliffs and hills overlooking main pathways. During this time period there are also evidences of communal sanctuaries and cemeteries used as social aggregation spots, in which communities from several villages gathered altogether for celebrations and rituals.
 
-#*BOLD* PROJECT STEPS
+# PROJECT STEPS
+## 1) Selecting LiDAR data
+
+First of all, we had to request, and then acquire, LiDAR-generated maps from the INGV (National Institute of Geology and Vulcanology - Italy: [INGV Homepage](http://www.ingv.it/it/)). Thanks to their collaboration, we were able to download a total of 4 10-m resolution DTMs of the entire Platani River Valley (W41090 – W41590 – W41585 – W41085).
+
+
+## 2) Examining the data
+
+We, then, decided to create two kinds of visual maps, in order to check data validity and whether or not it was possible to go through our initial reasearch questions. The results were promising because, even with a 10-m resolution, it was still possible to look at detailed features of the landscape
+
+![Mosaic DTM](Mosaic DTM.jpg) ![Slope DTM](Slope DTM.jpg)
 
 - Bulleted
 - List
@@ -28,8 +38,7 @@ Evidences of human occupation are dated back to 6th-5th millennium BC (Neolithic
 1. Numbered
 2. List
 
-![Mosaic DTM](Mosaic DTM.jpg)
-![Slope DTM](Slope DTM.jpg)
+
 ![Satellite Image DTM](Satellite Image DTM.jpg)
 ![3D DTM](3D DTM.jpg)
 ![3D1](3D1.jpg)
