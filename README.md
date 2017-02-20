@@ -69,7 +69,7 @@ Since we want to show how the landscape and prehistoric communities were part of
 
 We considered the portion of visible landscape that can be seen from each site, and then relate it to the postition of each site within the landscape. Most probably these things are in a very close connection one to another. We can think about communities settling in specific positions throughout the area in order to gain advantages over the landscape (control of sources, defense, control of routes, soil fertility).
 
-![sites](sites.png)
+![sites](sites.jpg)
 
 
 
